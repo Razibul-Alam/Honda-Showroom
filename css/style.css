@@ -4,9 +4,16 @@ body{
     margin: 0;
     box-sizing: border-box;
 }
-nav{
-    background-color: white;
+header{
+    background: #264653;
+color: #FFFFFF;
+;
 }
+header button{
+    background: #E76F51;
+
+}
+
 .icon{
     color: turquoise;
 }
