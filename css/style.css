@@ -18,6 +18,11 @@ header button{
     background: #E76F51;
 
 }
+
+.hero-para{
+    color: #E0E0E0;
+
+}
 /* set the button text color */
 button{
     color: white;
