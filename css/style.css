@@ -65,9 +65,32 @@ background-color: black;
     filter: grayscale(100%);
   }
 
+  .card-img1{
+    width: 70px;
+    height: 70px;
+    background-color: orangered;
+    color: #e5eef7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    position:relative ;
+    left: 80px;
+    bottom: 50px;
+  
+    
+   
+}
+
+.card-body{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position:  relative;
+}
 /******* ======media query ======*******/
-@media (max-width:600px){
+/* @media (max-width:600px){
     .social, .inbox, .counter-text{
         margin-bottom: 2.5rem;
     }
-}
+} */
